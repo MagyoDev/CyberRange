@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"piranha","order":1,"path":"scripts/piranha/piranha.yy",},
+    {"name":"obj_weapon_throw","order":2,"path":"objects/obj_weapon_throw/obj_weapon_throw.yy",},
+    {"name":"obJ_weapon_pickup","order":1,"path":"objects/obJ_weapon_pickup/obJ_weapon_pickup.yy",},
+    {"name":"spr_empty","order":1,"path":"sprites/spr_empty/spr_empty.yy",},
+    {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
+  ],
+}
